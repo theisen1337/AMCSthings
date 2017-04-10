@@ -1,2 +1,0 @@
-# AMCSthings
-stuff for AMCS
